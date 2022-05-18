@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1652332960 source:d:\rabbit & carrot\action.cpp
+	"play.h"
+	"draw.h"
+	"action.h"
+	" mainobject.h"
+
+1649903736 d:\rabbit & carrot\play.h
+	"mainobject.h"
+
+1652331556 d:\rabbit & carrot\mainobject.h
+	<bits/stdc++.h>
+	<windows.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+
+1649903711 d:\rabbit & carrot\draw.h
+
+1652332450 d:\rabbit & carrot\action.h
+	"mainobject.h"
+	"play.h"
+
+1652637794 source:d:\rabbit & carrot\draw.cpp
+	"mainobject.h"
+	"play.h"
+	"draw.h"
+
+1652332732 source:d:\rabbit & carrot\mainobject.cpp
+	"mainobject.h"
+
+1650299884 source:d:\rabbit & carrot\play.cpp
+	"play.h"
+	"mainobject.h"
+
