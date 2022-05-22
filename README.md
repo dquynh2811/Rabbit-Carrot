@@ -3,7 +3,7 @@
 - MSSV: 21020087
 - Tựa game: Rabbit & Carrot
 
-## 1. Cách lấy và chạy chương trình:
+## 1. Cách lấy và chạy chương trình (dành cho hđh Window):
 - Bước 1: Download từ github file zip chứa toàn bộ code & thư viện, hình ảnh, âm thanh từ github
 - Bước 2: Giải nén, tìm và chạy file `Rabbit & Carrot.exe` để chạy game.
 
