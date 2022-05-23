@@ -31,10 +31,9 @@
 - Sử dụng biến const, con trỏ và tham chiếu;
 - Sử dụng class, struct, extern,...
 ### Với thư viện SDL2, SD2_image, SDL2_mixer
-- Sử dụng thư viện extension để load ảnh định dạng PNG/JPG;
 - Xử lí sự kiện chuột, bàn phím;
 - Sử dụng hàm callback để hiện bẫy khi thỏ lại gần;
-- Sử dụng hàm thư viện các thư viện để tạo hình ảnh, âm thanh cho game.
+- Sử dụng hàm trong các thư viện để tạo hình ảnh, âm thanh cho game.
 
 Ngoài ra, đã hiểu và vận dụng cách chia file và quản lí file cpp, file header;
 
